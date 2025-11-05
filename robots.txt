@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reanimalgame.github.io/sitemap.xml
+
